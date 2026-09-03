@@ -1,0 +1,12 @@
+data/raw/
+data/processed/
+models/*.pkl
+reports/figures/*.png
+reports/model_comparison.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
