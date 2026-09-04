@@ -13,7 +13,7 @@ interactive experience:
 | Tab | Purpose |
 |---|---|
 | Home | Explains the project and summarizes the dataset and results |
-| Dataset | Shows transaction samples and descriptive statistics |
+| Dataset | Shows transaction samples and descriptive statistics |  
 | Explore Data | Compares legitimate and fraudulent behavior by feature |
 | Models | Compares model metrics, ROC/PR curves, and confusion matrices |
 | Live Check | Simulates a transaction and returns a fraud probability |
