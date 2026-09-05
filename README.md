@@ -7,7 +7,7 @@ predict whether a transaction is fraudulent (1) or legitimate (0).
 
 ## Dashboard 
 
-The Streamlit dashboard turns the complete machine learning workflow into one
+The Streamlit dashboard turns the complete machine learning workflow into one  
 interactive experience:
 
 | Tab | Purpose |
