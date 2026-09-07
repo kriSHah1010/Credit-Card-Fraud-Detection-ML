@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection - End-to-End ML Project
 
-Binary classification on highly imbalanced credit card transaction data to
+Binary classification on highly imbalanced credit card transaction data to 
 predict whether a transaction is fraudulent (1) or legitimate (0).
 
 ![Credit Card Fraud Detection project overview](reports/github_project_overview.svg)
