@@ -4,7 +4,7 @@ Binary classification on highly imbalanced credit card transaction data to
 predict whether a transaction is fraudulent (1) or legitimate (0).
  
 ![Credit Card Fraud Detection project overview](reports/github_project_overview.svg)
- 
+  
 ## Dashboard 
 
 The Streamlit dashboard turns the complete machine learning workflow into one  
